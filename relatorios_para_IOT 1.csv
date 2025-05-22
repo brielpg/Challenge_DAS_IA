@@ -1,0 +1,81 @@
+ID do Paciente;Data do Atendimento;Idade;Sexo;Sintomas Descritos;Diagnostico Inicial;Urgencia;Historico Medico;Tratamento Recomendado;Gravidade do Caso;Numero de Consultas Anteriores;Comorbidades
+1;01/03/2025;28;Masculino;Dor persistente no dente superior esquerdo;Carie;Alta;Nao;Restauracao;2;3;Nenhuma
+2;02/03/2025;35;Feminino;Sangramento gengival ao escovar os dentes;Gengivite;Média;Sim;Limpeza;1;2;Hipertensao
+3;03/03/2025;60;Feminino;Dor intensa e inchaco na mandibula;Infeccao dentaria;Alta;Sim;Extracao;3;5;Diabetes
+4;04/03/2025;22;Masculino;Sensibilidade nos dentes ao comer doces;Sensibilidade dentaria;Baixa;Nao;Fluor;1;1;Nenhuma
+5;05/03/2025;50;Feminino;Dor constante ao morder alimentos duros;Carie e fratura;Média;Sim;Restauracao;2;4;Nenhuma
+6;06/03/2025;42;Masculino;Dor forte ao mastigar alimentos;Dente rachado;Alta;Nao;Extracao;1;6;Nenhuma
+7;07/03/2025;30;Feminino;Dor de dente aguda;Carie;Alta;Sim;Restauracao;3;3;Diabetes
+8;08/03/2025;25;Masculino;Dor nas gengivas;Gengivite;Baixa;Nao;Limpeza;1;2;Nenhuma
+9;09/03/2025;37;Feminino;Dor de dente e febre;Infeccao dentaria;Alta;Sim;Extracao;2;5;Hipertensao
+10;10/03/2025;45;Masculino;Dor no dente ao consumir alimentos frios;Sensibilidade dentaria;Média;Sim;Fluor;1;3;Nenhuma
+11;11/03/2025;38;Feminino;Dor intensa e inchaco no maxilar;Carie;Alta;Sim;Restauracao;2;4;Diabetes
+12;12/03/2025;27;Masculino;Dor e sangramento nas gengivas;Gengivite;Média;Sim;Limpeza;3;2;Nenhuma
+13;13/03/2025;51;Feminino;Dor constante ao mastigar alimentos;Carie;Média;Sim;Restauracao;1;4;Hipertensao
+14;14/03/2025;29;Masculino;Dor no dente e sangramento gengival;Infeccao dentaria;Alta;Sim;Extracao;2;5;Nenhuma
+15;15/03/2025;48;Feminino;Sensibilidade nos dentes;Sensibilidade dentaria;Baixa;Nao;Fluor;1;3;Diabetes
+16;16/03/2025;34;Masculino;Dor ao mastigar e sensibilidade ao frio;Carie;Média;Sim;Restauracao;3;3;Nenhuma
+17;17/03/2025;40;Feminino;Dor de dente e gengivas inchadas;Gengivite;Média;Sim;Limpeza;1;3;Hipertensao
+18;18/03/2025;53;Masculino;Dor de dente e inchaco na gengiva;Infeccao dentaria;Alta;Sim;Extracao;2;5;Diabetes
+19;19/03/2025;41;Feminino;Dor e sangramento nas gengivas;Gengivite;Baixa;Nao;Limpeza;1;2;Nenhuma
+20;20/03/2025;32;Masculino;Dor no dente ao morder alimentos duros;Carie;Média;Nao;Restauracao;3;3;Hipertensao
+21;21/03/2025;44;Feminino;Dor nas gengivas e sangramento;Gengivite;Baixa;Sim;Limpeza;3;3;Nenhuma
+22;22/03/2025;31;Masculino;Dor forte no dente de baixo;Carie;Alta;Nao;Extracao;2;5;Diabetes
+23;23/03/2025;25;Feminino;Dor de dente constante;Infeccao dentaria;Alta;Sim;Extracao;1;4;Hipertensao
+24;24/03/2025;27;Masculino;Dor aguda e sensibilidade no dente superior;Carie;Média;Sim;Restauracao;2;3;Nenhuma
+25;25/03/2025;50;Feminino;Sensibilidade ao frio;Sensibilidade dentaria;Baixa;Nao;Fluor;1;4;Diabetes
+26;26/03/2025;60;Feminino;Dor ao mastigar;Carie;Média;Sim;Restauracao;2;5;Hipertensao
+27;27/03/2025;33;Masculino;Dor intensa na gengiva;Gengivite;Alta;Sim;Limpeza;1;4;Nenhuma
+28;28/03/2025;40;Feminino;Dor de dente e mau halito;Infeccao dentaria;Média;Sim;Extracao;2;6;Diabetes
+29;29/03/2025;45;Masculino;Dor no dente e sensibilidade ao frio;Sensibilidade dentaria;Baixa;Sim;Fluor;3;3;Nenhuma
+30;30/03/2025;38;Feminino;Dor ao mastigar e gengivas sangrando;Gengivite;Alta;Nao;Limpeza;1;4;Hipertensao
+31;31/03/2025;50;Masculino;Dor forte no dente;Carie;Alta;Sim;Extracao;1;5;Diabetes
+32;01/04/2025;29;Feminino;Sensibilidade nas gengivas;Gengivite;Média;Nao;Limpeza;3;2;Nenhuma
+33;02/04/2025;35;Masculino;Dor nas gengivas e dentes sensiveis;Sensibilidade dentaria;Baixa;Sim;Fluor;2;3;Nenhuma
+34;03/04/2025;52;Feminino;Dor intensa e inchaco no rosto;Infeccao dentaria;Alta;Sim;Extracao;1;5;Hipertensao
+35;04/04/2025;30;Masculino;Dor nos dentes ao morder alimentos duros;Carie;Média;Sim;Restauracao;3;4;Nenhuma
+36;05/04/2025;27;Feminino;Sensibilidade dentaria;Sensibilidade dentaria;Baixa;Nao;Fluor;1;2;Diabetes
+37;06/04/2025;33;Masculino;Dor de dente e inchaco na gengiva;Infeccao dentaria;Alta;Sim;Extracao;3;6;Nenhuma
+38;07/04/2025;46;Feminino;Dor constante e sangramento;Gengivite;Baixa;Nao;Limpeza;1;3;Hipertensao
+39;08/04/2025;54;Masculino;Dor de dente insuportavel;Carie;Alta;Nao;Extracao;3;5;Nenhuma
+40;09/04/2025;40;Feminino;Dor ao mastigar e sensibilidade ao frio;Sensibilidade dentaria;Média;Sim;Fluor;1;3;Diabetes
+41;10/04/2025;50;Masculino;Dor intensa e inchaco na mandibula;Infeccao dentaria;Alta;Sim;Extracao;2;5;Hipertensao
+42;11/04/2025;28;Feminino;Sensibilidade ao frio e calor;Sensibilidade dentaria;Baixa;Nao;Fluor;1;2;Diabetes
+43;12/04/2025;60;Masculino;Dor forte e sangramento nas gengivas;Gengivite;Média;Sim;Limpeza;3;4;Nenhuma
+44;13/04/2025;35;Feminino;Dor ao morder alimentos;Sensibilidade dentaria;Baixa;Sim;Fluor;3;2;Hipertensao
+45;14/04/2025;44;Masculino;Dor insuportavel ao mastigar;Carie;Alta;Nao;Extracao;1;5;Nenhuma
+46;15/04/2025;50;Feminino;Dor no dente e inchaco na gengiva;Infeccao dentaria;Alta;Sim;Extracao;1;6;Diabetes
+47;16/04/2025;31;Masculino;Dor de dente e gengivas sangrando;Gengivite;Média;Nao;Limpeza;3;3;Nenhuma
+48;17/04/2025;29;Feminino;Sensibilidade nos dentes ao tomar bebidas frias;Sensibilidade dentaria;Baixa;Nao;Fluor;2;2;Diabetes
+49;18/04/2025;55;Masculino;Dor aguda e inchaco no maxilar;Infeccao dentaria;Alta;Sim;Extracao;3;5;Hipertensao
+50;19/04/2025;43;Feminino;Dor intensa ao morder alimentos;Carie;Média;Sim;Restauracao;1;4;Diabetes
+51;20/04/2025;38;Masculino;Dor de dente e febre;Infeccao dentaria;Alta;Sim;Extracao;1;5;Nenhuma
+52;21/04/2025;36;Feminino;Dor no dente superior;Gengivite;Baixa;Nao;Limpeza;3;2;Hipertensao
+53;22/04/2025;47;Masculino;Dor nas gengivas e sangramento;Gengivite;Média;Nao;Limpeza;1;3;Nenhuma
+54;23/04/2025;49;Feminino;Dor forte ao morder alimentos;Carie;Alta;Nao;Extracao;3;5;Diabetes
+55;24/04/2025;30;Masculino;Dor nas gengivas;Gengivite;Média;Sim;Limpeza;2;3;Nenhuma
+56;25/04/2025;41;Feminino;Dor insuportavel ao mastigar alimentos;Infeccao dentaria;Alta;Sim;Extracao;1;4;Hipertensao
+57;26/04/2025;28;Masculino;Dor ao mastigar alimentos;Carie;Média;Sim;Restauracao;3;3;Nenhuma
+58;27/04/2025;37;Feminino;Dor nas gengivas e dentes sensiveis;Sensibilidade dentaria;Baixa;Sim;Fluor;3;4;Nenhuma
+59;28/04/2025;32;Masculino;Dor de dente constante;Carie;Alta;Nao;Extracao;1;5;Diabetes
+60;29/04/2025;55;Feminino;Dor ao mastigar e inchaco na gengiva;Infeccao dentaria;Alta;Sim;Extracao;1;6;Hipertensao
+61;30/04/2025;39;Masculino;Dor nas gengivas;Gengivite;Média;Sim;Limpeza;2;3;Nenhuma
+62;01/05/2025;27;Feminino;Sensibilidade ao frio e dor;Sensibilidade dentaria;Baixa;Sim;Fluor;3;2;Diabetes
+63;02/05/2025;48;Masculino;Dor constante nas gengivas;Gengivite;Alta;Nao;Limpeza;1;4;Nenhuma
+64;03/05/2025;40;Feminino;Dor insuportavel ao mastigar;Infeccao dentaria;Alta;Sim;Extracao;3;5;Diabetes
+65;04/05/2025;32;Masculino;Dor de dente forte ao comer alimentos frios;Sensibilidade dentaria;Média;Sim;Fluor;1;3;Hipertensao
+66;05/05/2025;54;Feminino;Dor forte e inchaco na gengiva;Carie;Alta;Sim;Extracao;1;6;Nenhuma
+67;06/05/2025;28;Masculino;Dor nas gengivas e sangramento;Gengivite;Baixa;Sim;Limpeza;3;2;Nenhuma
+68;07/05/2025;31;Feminino;Dor insuportavel ao morder;Sensibilidade dentaria;Média;Nao;Fluor;1;3;Diabetes
+69;08/05/2025;33;Masculino;Dor de dente constante;Infeccao dentaria;Alta;Sim;Extracao;2;5;Hipertensao
+70;09/05/2025;46;Feminino;Dor na gengiva e dentes sensiveis;Gengivite;Média;Sim;Limpeza;1;4;Nenhuma
+71;10/05/2025;51;Masculino;Dor ao mastigar e inchaco na mandibula;Carie;Média;Nao;Restauracao;3;5;Diabetes
+72;11/05/2025;35;Feminino;Dor nas gengivas e dentes sensiveis;Sensibilidade dentaria;Baixa;Sim;Fluor;1;2;Nenhuma
+73;12/05/2025;50;Masculino;Dor de dente e febre;Infeccao dentaria;Alta;Nao;Extracao;2;4;Hipertensao
+74;13/05/2025;28;Feminino;Dor insuportavel nas gengivas;Gengivite;Baixa;Sim;Limpeza;3;3;Nenhuma
+75;14/05/2025;42;Masculino;Dor de dente e gengivas inchadas;Carie;Média;Sim;Restauracao;2;4;Diabetes
+76;15/05/2025;49;Feminino;Dor nas gengivas e dificuldade para mastigar;Infeccao dentaria;Alta;Sim;Extracao;1;5;Nenhuma
+77;16/05/2025;38;Masculino;Dor no dente superior;Carie;Média;Sim;Restauracao;1;3;Hipertensao
+78;17/05/2025;29;Feminino;Sensibilidade ao frio e dor no dente;Sensibilidade dentaria;Baixa;Nao;Fluor;1;2;Diabetes
+79;18/05/2025;36;Masculino;Dor nas gengivas e dificuldade para mastigar;Gengivite;Alta;Sim;Limpeza;2;3;Nenhuma
+80;19/05/2025;43;Feminino;Dor forte ao mastigar;Sensibilidade dentaria;Baixa;Sim;Fluor;1;4;Nenhuma
